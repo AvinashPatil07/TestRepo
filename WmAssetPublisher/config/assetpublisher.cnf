@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <value name="is_hostname">LP-R901F8E2.HCLT.CORP.HCL.IN</value>
+    <value name="is_identifier">ee77a697-4eaf-4540-b30c-7f741a660926</value>
+    <value name="library_username"></value>
+    <value name="library_url"></value>
+  </record>
+</IDataXMLCoder>
